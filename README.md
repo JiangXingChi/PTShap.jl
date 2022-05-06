@@ -7,7 +7,7 @@ Pkg.add(PackageSpec(url="https://github.com/JiangXingChi/PTShap.jl"))
 ```
 
 
-For example:
+* An example:
 ```
 using DataFrames,StatsBase,ShapML,MLJ,Random
 using RDatasets,CSV
