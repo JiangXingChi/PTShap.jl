@@ -9,7 +9,7 @@ Pkg.add(PackageSpec(url="https://github.com/JiangXingChi/PTShap.jl"))
 
 * An example:
 ```
-using DataFrames,StatsBase,ShapML,MLJ,Random
+using DataFrames,StatsBase,ShapML,MLJ,Random,PTShap
 using RDatasets,CSV
 
 iris=dataset("datasets","iris")
