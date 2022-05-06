@@ -1,5 +1,11 @@
 # PTShap.jl
-Permutation test and Shapley value
+* Permutation test and Shapley value.
+* Install:
+```
+using Pkg
+Pkg.add(PackageSpec(url="https://github.com/JiangXingChi/PTShap.jl"))
+```
+
 
 For example:
 ```
