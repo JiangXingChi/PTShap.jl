@@ -1,0 +1,12 @@
+name = "PTShap"
+uuid = "3cd1548b-4d2a-4c3f-9ef2-17ad22846c1e"
+authors = ["Jiang Xingchi <pandalinux@163.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+MLJ = "add582a8-e3ab-11e8-2d5e-e98b27df1bc7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+ShapML = "8523bd24-6f66-414b-9e1e-b02db3916d64"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
