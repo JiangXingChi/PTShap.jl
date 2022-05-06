@@ -1,5 +1,5 @@
 # PTShap.jl
-* Permutation test and Shapley value.
+* PTShap.jl provides a sample Permutation test and integration Shapley value table.
 * Install:
 ```
 using Pkg
